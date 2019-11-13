@@ -1,0 +1,1 @@
+This is a simple command line program I created to roll dice for use in an RPG game.  This program has the added benefit of a cheat to roll a natural 20 to help with storyline purposes.
